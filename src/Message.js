@@ -12,8 +12,8 @@ export function Message(){
 export function Author(){
     return(
         <span>
-            <span className="name">Your Name</span>
-            <span className="handle">@yourhandle</span>
+            <span className="name">Yasir Shahid</span>
+            <span className="handle">@yasirshahid</span>
         </span>
     );
 }
