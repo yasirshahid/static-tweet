@@ -13,7 +13,7 @@ export function Author(){
     return(
         <span>
             <span className="name">Yasir Shahid</span>
-            <span className="handle">@yasirshahid</span>
+            <span className="handle">@yasir</span>
         </span>
     );
 }
